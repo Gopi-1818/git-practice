@@ -1,1 +1,2 @@
 Data science is fun
+Pandas and NumPy are essential

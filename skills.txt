@@ -1,1 +1,2 @@
 Python, SQL, and ML are key skills
+Focus on problem-solving
