@@ -1,1 +1,2 @@
 Always backup your work
+Learn Git thoroughly
